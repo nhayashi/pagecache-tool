@@ -1,0 +1,11 @@
+==== How to use ====
+* read_offset
+./read_offset filename offset [length]
+
+* fincore
+./fincore filename
+
+* flush_pagecache
+./flush_pagecache filename
+
+
